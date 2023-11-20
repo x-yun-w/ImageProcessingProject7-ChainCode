@@ -1,0 +1,781 @@
+After loadImage; ZFAry as below
+entering getChainCode method
+entering findNextP method
+leaving findNextP method
+chainDir = 5
+lastQ = 2 currentP.row = 3 currentP.col = 9 nextP.row = 3 nextP.col = 9
+entering findNextP method
+leaving findNextP method
+chainDir = 5
+lastQ = 2 currentP.row = 4 currentP.col = 8 nextP.row = 4 nextP.col = 8
+entering findNextP method
+leaving findNextP method
+chainDir = 6
+lastQ = 4 currentP.row = 5 currentP.col = 8 nextP.row = 5 nextP.col = 8
+entering findNextP method
+leaving findNextP method
+chainDir = 6
+lastQ = 4 currentP.row = 6 currentP.col = 8 nextP.row = 6 nextP.col = 8
+entering findNextP method
+leaving findNextP method
+chainDir = 6
+lastQ = 4 currentP.row = 7 currentP.col = 8 nextP.row = 7 nextP.col = 8
+entering findNextP method
+leaving findNextP method
+chainDir = 6
+lastQ = 4 currentP.row = 8 currentP.col = 8 nextP.row = 8 nextP.col = 8
+entering findNextP method
+leaving findNextP method
+chainDir = 6
+lastQ = 4 currentP.row = 9 currentP.col = 8 nextP.row = 9 nextP.col = 8
+entering findNextP method
+leaving findNextP method
+chainDir = 6
+lastQ = 4 currentP.row = 10 currentP.col = 8 nextP.row = 10 nextP.col = 8
+entering findNextP method
+leaving findNextP method
+chainDir = 6
+lastQ = 4 currentP.row = 11 currentP.col = 8 nextP.row = 11 nextP.col = 8
+entering findNextP method
+leaving findNextP method
+chainDir = 6
+lastQ = 4 currentP.row = 12 currentP.col = 8 nextP.row = 12 nextP.col = 8
+entering findNextP method
+leaving findNextP method
+chainDir = 6
+lastQ = 4 currentP.row = 13 currentP.col = 8 nextP.row = 13 nextP.col = 8
+entering findNextP method
+leaving findNextP method
+chainDir = 6
+lastQ = 4 currentP.row = 14 currentP.col = 8 nextP.row = 14 nextP.col = 8
+entering findNextP method
+leaving findNextP method
+chainDir = 6
+lastQ = 4 currentP.row = 15 currentP.col = 8 nextP.row = 15 nextP.col = 8
+entering findNextP method
+leaving findNextP method
+chainDir = 6
+lastQ = 4 currentP.row = 16 currentP.col = 8 nextP.row = 16 nextP.col = 8
+entering findNextP method
+leaving findNextP method
+chainDir = 6
+lastQ = 4 currentP.row = 17 currentP.col = 8 nextP.row = 17 nextP.col = 8
+entering findNextP method
+leaving findNextP method
+chainDir = 6
+lastQ = 4 currentP.row = 18 currentP.col = 8 nextP.row = 18 nextP.col = 8
+entering findNextP method
+leaving findNextP method
+chainDir = 7
+lastQ = 4 currentP.row = 19 currentP.col = 9 nextP.row = 19 nextP.col = 9
+entering findNextP method
+leaving findNextP method
+chainDir = 7
+lastQ = 4 currentP.row = 20 currentP.col = 10 nextP.row = 20 nextP.col = 10
+entering findNextP method
+leaving findNextP method
+chainDir = 1
+lastQ = 6 currentP.row = 19 currentP.col = 11 nextP.row = 19 nextP.col = 11
+entering findNextP method
+leaving findNextP method
+chainDir = 1
+lastQ = 6 currentP.row = 18 currentP.col = 12 nextP.row = 18 nextP.col = 12
+entering findNextP method
+leaving findNextP method
+chainDir = 2
+lastQ = 0 currentP.row = 17 currentP.col = 12 nextP.row = 17 nextP.col = 12
+entering findNextP method
+leaving findNextP method
+chainDir = 2
+lastQ = 0 currentP.row = 16 currentP.col = 12 nextP.row = 16 nextP.col = 12
+entering findNextP method
+leaving findNextP method
+chainDir = 2
+lastQ = 0 currentP.row = 15 currentP.col = 12 nextP.row = 15 nextP.col = 12
+entering findNextP method
+leaving findNextP method
+chainDir = 1
+lastQ = 6 currentP.row = 14 currentP.col = 13 nextP.row = 14 nextP.col = 13
+entering findNextP method
+leaving findNextP method
+chainDir = 0
+lastQ = 6 currentP.row = 14 currentP.col = 14 nextP.row = 14 nextP.col = 14
+entering findNextP method
+leaving findNextP method
+chainDir = 0
+lastQ = 6 currentP.row = 14 currentP.col = 15 nextP.row = 14 nextP.col = 15
+entering findNextP method
+leaving findNextP method
+chainDir = 0
+lastQ = 6 currentP.row = 14 currentP.col = 16 nextP.row = 14 nextP.col = 16
+entering findNextP method
+leaving findNextP method
+chainDir = 0
+lastQ = 6 currentP.row = 14 currentP.col = 17 nextP.row = 14 nextP.col = 17
+entering findNextP method
+leaving findNextP method
+chainDir = 7
+lastQ = 4 currentP.row = 15 currentP.col = 18 nextP.row = 15 nextP.col = 18
+entering findNextP method
+leaving findNextP method
+chainDir = 6
+lastQ = 4 currentP.row = 16 currentP.col = 18 nextP.row = 16 nextP.col = 18
+entering findNextP method
+leaving findNextP method
+chainDir = 6
+lastQ = 4 currentP.row = 17 currentP.col = 18 nextP.row = 17 nextP.col = 18
+entering findNextP method
+leaving findNextP method
+chainDir = 6
+lastQ = 4 currentP.row = 18 currentP.col = 18 nextP.row = 18 nextP.col = 18
+entering findNextP method
+leaving findNextP method
+chainDir = 6
+lastQ = 4 currentP.row = 19 currentP.col = 18 nextP.row = 19 nextP.col = 18
+entering findNextP method
+leaving findNextP method
+chainDir = 6
+lastQ = 4 currentP.row = 20 currentP.col = 18 nextP.row = 20 nextP.col = 18
+entering findNextP method
+leaving findNextP method
+chainDir = 0
+lastQ = 6 currentP.row = 20 currentP.col = 19 nextP.row = 20 nextP.col = 19
+entering findNextP method
+leaving findNextP method
+chainDir = 0
+lastQ = 6 currentP.row = 20 currentP.col = 20 nextP.row = 20 nextP.col = 20
+entering findNextP method
+leaving findNextP method
+chainDir = 2
+lastQ = 0 currentP.row = 19 currentP.col = 20 nextP.row = 19 nextP.col = 20
+entering findNextP method
+leaving findNextP method
+chainDir = 2
+lastQ = 0 currentP.row = 18 currentP.col = 20 nextP.row = 18 nextP.col = 20
+entering findNextP method
+leaving findNextP method
+chainDir = 2
+lastQ = 0 currentP.row = 17 currentP.col = 20 nextP.row = 17 nextP.col = 20
+entering findNextP method
+leaving findNextP method
+chainDir = 2
+lastQ = 0 currentP.row = 16 currentP.col = 20 nextP.row = 16 nextP.col = 20
+entering findNextP method
+leaving findNextP method
+chainDir = 2
+lastQ = 0 currentP.row = 15 currentP.col = 20 nextP.row = 15 nextP.col = 20
+entering findNextP method
+leaving findNextP method
+chainDir = 1
+lastQ = 6 currentP.row = 14 currentP.col = 21 nextP.row = 14 nextP.col = 21
+entering findNextP method
+leaving findNextP method
+chainDir = 0
+lastQ = 6 currentP.row = 14 currentP.col = 22 nextP.row = 14 nextP.col = 22
+entering findNextP method
+leaving findNextP method
+chainDir = 0
+lastQ = 6 currentP.row = 14 currentP.col = 23 nextP.row = 14 nextP.col = 23
+entering findNextP method
+leaving findNextP method
+chainDir = 0
+lastQ = 6 currentP.row = 14 currentP.col = 24 nextP.row = 14 nextP.col = 24
+entering findNextP method
+leaving findNextP method
+chainDir = 0
+lastQ = 6 currentP.row = 14 currentP.col = 25 nextP.row = 14 nextP.col = 25
+entering findNextP method
+leaving findNextP method
+chainDir = 0
+lastQ = 6 currentP.row = 14 currentP.col = 26 nextP.row = 14 nextP.col = 26
+entering findNextP method
+leaving findNextP method
+chainDir = 0
+lastQ = 6 currentP.row = 14 currentP.col = 27 nextP.row = 14 nextP.col = 27
+entering findNextP method
+leaving findNextP method
+chainDir = 0
+lastQ = 6 currentP.row = 14 currentP.col = 28 nextP.row = 14 nextP.col = 28
+entering findNextP method
+leaving findNextP method
+chainDir = 7
+lastQ = 4 currentP.row = 15 currentP.col = 29 nextP.row = 15 nextP.col = 29
+entering findNextP method
+leaving findNextP method
+chainDir = 6
+lastQ = 4 currentP.row = 16 currentP.col = 29 nextP.row = 16 nextP.col = 29
+entering findNextP method
+leaving findNextP method
+chainDir = 6
+lastQ = 4 currentP.row = 17 currentP.col = 29 nextP.row = 17 nextP.col = 29
+entering findNextP method
+leaving findNextP method
+chainDir = 6
+lastQ = 4 currentP.row = 18 currentP.col = 29 nextP.row = 18 nextP.col = 29
+entering findNextP method
+leaving findNextP method
+chainDir = 7
+lastQ = 4 currentP.row = 19 currentP.col = 30 nextP.row = 19 nextP.col = 30
+entering findNextP method
+leaving findNextP method
+chainDir = 7
+lastQ = 4 currentP.row = 20 currentP.col = 31 nextP.row = 20 nextP.col = 31
+entering findNextP method
+leaving findNextP method
+chainDir = 1
+lastQ = 6 currentP.row = 19 currentP.col = 32 nextP.row = 19 nextP.col = 32
+entering findNextP method
+leaving findNextP method
+chainDir = 1
+lastQ = 6 currentP.row = 18 currentP.col = 33 nextP.row = 18 nextP.col = 33
+entering findNextP method
+leaving findNextP method
+chainDir = 2
+lastQ = 0 currentP.row = 17 currentP.col = 33 nextP.row = 17 nextP.col = 33
+entering findNextP method
+leaving findNextP method
+chainDir = 2
+lastQ = 0 currentP.row = 16 currentP.col = 33 nextP.row = 16 nextP.col = 33
+entering findNextP method
+leaving findNextP method
+chainDir = 2
+lastQ = 0 currentP.row = 15 currentP.col = 33 nextP.row = 15 nextP.col = 33
+entering findNextP method
+leaving findNextP method
+chainDir = 2
+lastQ = 0 currentP.row = 14 currentP.col = 33 nextP.row = 14 nextP.col = 33
+entering findNextP method
+leaving findNextP method
+chainDir = 2
+lastQ = 0 currentP.row = 13 currentP.col = 33 nextP.row = 13 nextP.col = 33
+entering findNextP method
+leaving findNextP method
+chainDir = 1
+lastQ = 6 currentP.row = 12 currentP.col = 34 nextP.row = 12 nextP.col = 34
+entering findNextP method
+leaving findNextP method
+chainDir = 0
+lastQ = 6 currentP.row = 12 currentP.col = 35 nextP.row = 12 nextP.col = 35
+entering findNextP method
+leaving findNextP method
+chainDir = 0
+lastQ = 6 currentP.row = 12 currentP.col = 36 nextP.row = 12 nextP.col = 36
+entering findNextP method
+leaving findNextP method
+chainDir = 7
+lastQ = 4 currentP.row = 13 currentP.col = 37 nextP.row = 13 nextP.col = 37
+entering findNextP method
+leaving findNextP method
+chainDir = 6
+lastQ = 4 currentP.row = 14 currentP.col = 37 nextP.row = 14 nextP.col = 37
+entering findNextP method
+leaving findNextP method
+chainDir = 6
+lastQ = 4 currentP.row = 15 currentP.col = 37 nextP.row = 15 nextP.col = 37
+entering findNextP method
+leaving findNextP method
+chainDir = 6
+lastQ = 4 currentP.row = 16 currentP.col = 37 nextP.row = 16 nextP.col = 37
+entering findNextP method
+leaving findNextP method
+chainDir = 6
+lastQ = 4 currentP.row = 17 currentP.col = 37 nextP.row = 17 nextP.col = 37
+entering findNextP method
+leaving findNextP method
+chainDir = 2
+lastQ = 0 currentP.row = 16 currentP.col = 37 nextP.row = 16 nextP.col = 37
+entering findNextP method
+leaving findNextP method
+chainDir = 2
+lastQ = 0 currentP.row = 15 currentP.col = 37 nextP.row = 15 nextP.col = 37
+entering findNextP method
+leaving findNextP method
+chainDir = 2
+lastQ = 0 currentP.row = 14 currentP.col = 37 nextP.row = 14 nextP.col = 37
+entering findNextP method
+leaving findNextP method
+chainDir = 2
+lastQ = 0 currentP.row = 13 currentP.col = 37 nextP.row = 13 nextP.col = 37
+entering findNextP method
+leaving findNextP method
+chainDir = 2
+lastQ = 0 currentP.row = 12 currentP.col = 37 nextP.row = 12 nextP.col = 37
+entering findNextP method
+leaving findNextP method
+chainDir = 2
+lastQ = 0 currentP.row = 11 currentP.col = 37 nextP.row = 11 nextP.col = 37
+entering findNextP method
+leaving findNextP method
+chainDir = 2
+lastQ = 0 currentP.row = 10 currentP.col = 37 nextP.row = 10 nextP.col = 37
+entering findNextP method
+leaving findNextP method
+chainDir = 2
+lastQ = 0 currentP.row = 9 currentP.col = 37 nextP.row = 9 nextP.col = 37
+entering findNextP method
+leaving findNextP method
+chainDir = 2
+lastQ = 0 currentP.row = 8 currentP.col = 37 nextP.row = 8 nextP.col = 37
+entering findNextP method
+leaving findNextP method
+chainDir = 2
+lastQ = 0 currentP.row = 7 currentP.col = 37 nextP.row = 7 nextP.col = 37
+entering findNextP method
+leaving findNextP method
+chainDir = 2
+lastQ = 0 currentP.row = 6 currentP.col = 37 nextP.row = 6 nextP.col = 37
+entering findNextP method
+leaving findNextP method
+chainDir = 6
+lastQ = 4 currentP.row = 7 currentP.col = 37 nextP.row = 7 nextP.col = 37
+entering findNextP method
+leaving findNextP method
+chainDir = 6
+lastQ = 4 currentP.row = 8 currentP.col = 37 nextP.row = 8 nextP.col = 37
+entering findNextP method
+leaving findNextP method
+chainDir = 6
+lastQ = 4 currentP.row = 9 currentP.col = 37 nextP.row = 9 nextP.col = 37
+entering findNextP method
+leaving findNextP method
+chainDir = 6
+lastQ = 4 currentP.row = 10 currentP.col = 37 nextP.row = 10 nextP.col = 37
+entering findNextP method
+leaving findNextP method
+chainDir = 6
+lastQ = 4 currentP.row = 11 currentP.col = 37 nextP.row = 11 nextP.col = 37
+entering findNextP method
+leaving findNextP method
+chainDir = 5
+lastQ = 2 currentP.row = 12 currentP.col = 36 nextP.row = 12 nextP.col = 36
+entering findNextP method
+leaving findNextP method
+chainDir = 4
+lastQ = 2 currentP.row = 12 currentP.col = 35 nextP.row = 12 nextP.col = 35
+entering findNextP method
+leaving findNextP method
+chainDir = 4
+lastQ = 2 currentP.row = 12 currentP.col = 34 nextP.row = 12 nextP.col = 34
+entering findNextP method
+leaving findNextP method
+chainDir = 3
+lastQ = 0 currentP.row = 11 currentP.col = 33 nextP.row = 11 nextP.col = 33
+entering findNextP method
+leaving findNextP method
+chainDir = 2
+lastQ = 0 currentP.row = 10 currentP.col = 33 nextP.row = 10 nextP.col = 33
+entering findNextP method
+leaving findNextP method
+chainDir = 2
+lastQ = 0 currentP.row = 9 currentP.col = 33 nextP.row = 9 nextP.col = 33
+entering findNextP method
+leaving findNextP method
+chainDir = 2
+lastQ = 0 currentP.row = 8 currentP.col = 33 nextP.row = 8 nextP.col = 33
+entering findNextP method
+leaving findNextP method
+chainDir = 2
+lastQ = 0 currentP.row = 7 currentP.col = 33 nextP.row = 7 nextP.col = 33
+entering findNextP method
+leaving findNextP method
+chainDir = 2
+lastQ = 0 currentP.row = 6 currentP.col = 33 nextP.row = 6 nextP.col = 33
+entering findNextP method
+leaving findNextP method
+chainDir = 2
+lastQ = 0 currentP.row = 5 currentP.col = 33 nextP.row = 5 nextP.col = 33
+entering findNextP method
+leaving findNextP method
+chainDir = 2
+lastQ = 0 currentP.row = 4 currentP.col = 33 nextP.row = 4 nextP.col = 33
+entering findNextP method
+leaving findNextP method
+chainDir = 3
+lastQ = 0 currentP.row = 3 currentP.col = 32 nextP.row = 3 nextP.col = 32
+entering findNextP method
+leaving findNextP method
+chainDir = 3
+lastQ = 0 currentP.row = 2 currentP.col = 31 nextP.row = 2 nextP.col = 31
+entering findNextP method
+leaving findNextP method
+chainDir = 5
+lastQ = 2 currentP.row = 3 currentP.col = 30 nextP.row = 3 nextP.col = 30
+entering findNextP method
+leaving findNextP method
+chainDir = 5
+lastQ = 2 currentP.row = 4 currentP.col = 29 nextP.row = 4 nextP.col = 29
+entering findNextP method
+leaving findNextP method
+chainDir = 6
+lastQ = 4 currentP.row = 5 currentP.col = 29 nextP.row = 5 nextP.col = 29
+entering findNextP method
+leaving findNextP method
+chainDir = 6
+lastQ = 4 currentP.row = 6 currentP.col = 29 nextP.row = 6 nextP.col = 29
+entering findNextP method
+leaving findNextP method
+chainDir = 6
+lastQ = 4 currentP.row = 7 currentP.col = 29 nextP.row = 7 nextP.col = 29
+entering findNextP method
+leaving findNextP method
+chainDir = 6
+lastQ = 4 currentP.row = 8 currentP.col = 29 nextP.row = 8 nextP.col = 29
+entering findNextP method
+leaving findNextP method
+chainDir = 6
+lastQ = 4 currentP.row = 9 currentP.col = 29 nextP.row = 9 nextP.col = 29
+entering findNextP method
+leaving findNextP method
+chainDir = 6
+lastQ = 4 currentP.row = 10 currentP.col = 29 nextP.row = 10 nextP.col = 29
+entering findNextP method
+leaving findNextP method
+chainDir = 6
+lastQ = 4 currentP.row = 11 currentP.col = 29 nextP.row = 11 nextP.col = 29
+entering findNextP method
+leaving findNextP method
+chainDir = 5
+lastQ = 2 currentP.row = 12 currentP.col = 28 nextP.row = 12 nextP.col = 28
+entering findNextP method
+leaving findNextP method
+chainDir = 4
+lastQ = 2 currentP.row = 12 currentP.col = 27 nextP.row = 12 nextP.col = 27
+entering findNextP method
+leaving findNextP method
+chainDir = 3
+lastQ = 0 currentP.row = 11 currentP.col = 26 nextP.row = 11 nextP.col = 26
+entering findNextP method
+leaving findNextP method
+chainDir = 3
+lastQ = 0 currentP.row = 10 currentP.col = 25 nextP.row = 10 nextP.col = 25
+entering findNextP method
+leaving findNextP method
+chainDir = 2
+lastQ = 0 currentP.row = 9 currentP.col = 25 nextP.row = 9 nextP.col = 25
+entering findNextP method
+leaving findNextP method
+chainDir = 6
+lastQ = 4 currentP.row = 10 currentP.col = 25 nextP.row = 10 nextP.col = 25
+entering findNextP method
+leaving findNextP method
+chainDir = 5
+lastQ = 2 currentP.row = 11 currentP.col = 24 nextP.row = 11 nextP.col = 24
+entering findNextP method
+leaving findNextP method
+chainDir = 5
+lastQ = 2 currentP.row = 12 currentP.col = 23 nextP.row = 12 nextP.col = 23
+entering findNextP method
+leaving findNextP method
+chainDir = 4
+lastQ = 2 currentP.row = 12 currentP.col = 22 nextP.row = 12 nextP.col = 22
+entering findNextP method
+leaving findNextP method
+chainDir = 3
+lastQ = 0 currentP.row = 11 currentP.col = 21 nextP.row = 11 nextP.col = 21
+entering findNextP method
+leaving findNextP method
+chainDir = 3
+lastQ = 0 currentP.row = 10 currentP.col = 20 nextP.row = 10 nextP.col = 20
+entering findNextP method
+leaving findNextP method
+chainDir = 2
+lastQ = 0 currentP.row = 9 currentP.col = 20 nextP.row = 9 nextP.col = 20
+entering findNextP method
+leaving findNextP method
+chainDir = 2
+lastQ = 0 currentP.row = 8 currentP.col = 20 nextP.row = 8 nextP.col = 20
+entering findNextP method
+leaving findNextP method
+chainDir = 2
+lastQ = 0 currentP.row = 7 currentP.col = 20 nextP.row = 7 nextP.col = 20
+entering findNextP method
+leaving findNextP method
+chainDir = 2
+lastQ = 0 currentP.row = 6 currentP.col = 20 nextP.row = 6 nextP.col = 20
+entering findNextP method
+leaving findNextP method
+chainDir = 2
+lastQ = 0 currentP.row = 5 currentP.col = 20 nextP.row = 5 nextP.col = 20
+entering findNextP method
+leaving findNextP method
+chainDir = 2
+lastQ = 0 currentP.row = 4 currentP.col = 20 nextP.row = 4 nextP.col = 20
+entering findNextP method
+leaving findNextP method
+chainDir = 2
+lastQ = 0 currentP.row = 3 currentP.col = 20 nextP.row = 3 nextP.col = 20
+entering findNextP method
+leaving findNextP method
+chainDir = 2
+lastQ = 0 currentP.row = 2 currentP.col = 20 nextP.row = 2 nextP.col = 20
+entering findNextP method
+leaving findNextP method
+chainDir = 4
+lastQ = 2 currentP.row = 2 currentP.col = 19 nextP.row = 2 nextP.col = 19
+entering findNextP method
+leaving findNextP method
+chainDir = 4
+lastQ = 2 currentP.row = 2 currentP.col = 18 nextP.row = 2 nextP.col = 18
+entering findNextP method
+leaving findNextP method
+chainDir = 6
+lastQ = 4 currentP.row = 3 currentP.col = 18 nextP.row = 3 nextP.col = 18
+entering findNextP method
+leaving findNextP method
+chainDir = 6
+lastQ = 4 currentP.row = 4 currentP.col = 18 nextP.row = 4 nextP.col = 18
+entering findNextP method
+leaving findNextP method
+chainDir = 6
+lastQ = 4 currentP.row = 5 currentP.col = 18 nextP.row = 5 nextP.col = 18
+entering findNextP method
+leaving findNextP method
+chainDir = 6
+lastQ = 4 currentP.row = 6 currentP.col = 18 nextP.row = 6 nextP.col = 18
+entering findNextP method
+leaving findNextP method
+chainDir = 6
+lastQ = 4 currentP.row = 7 currentP.col = 18 nextP.row = 7 nextP.col = 18
+entering findNextP method
+leaving findNextP method
+chainDir = 6
+lastQ = 4 currentP.row = 8 currentP.col = 18 nextP.row = 8 nextP.col = 18
+entering findNextP method
+leaving findNextP method
+chainDir = 6
+lastQ = 4 currentP.row = 9 currentP.col = 18 nextP.row = 9 nextP.col = 18
+entering findNextP method
+leaving findNextP method
+chainDir = 6
+lastQ = 4 currentP.row = 10 currentP.col = 18 nextP.row = 10 nextP.col = 18
+entering findNextP method
+leaving findNextP method
+chainDir = 5
+lastQ = 2 currentP.row = 11 currentP.col = 17 nextP.row = 11 nextP.col = 17
+entering findNextP method
+leaving findNextP method
+chainDir = 4
+lastQ = 2 currentP.row = 11 currentP.col = 16 nextP.row = 11 nextP.col = 16
+entering findNextP method
+leaving findNextP method
+chainDir = 3
+lastQ = 0 currentP.row = 10 currentP.col = 15 nextP.row = 10 nextP.col = 15
+entering findNextP method
+leaving findNextP method
+chainDir = 2
+lastQ = 0 currentP.row = 9 currentP.col = 15 nextP.row = 9 nextP.col = 15
+entering findNextP method
+leaving findNextP method
+chainDir = 2
+lastQ = 0 currentP.row = 8 currentP.col = 15 nextP.row = 8 nextP.col = 15
+entering findNextP method
+leaving findNextP method
+chainDir = 6
+lastQ = 4 currentP.row = 9 currentP.col = 15 nextP.row = 9 nextP.col = 15
+entering findNextP method
+leaving findNextP method
+chainDir = 6
+lastQ = 4 currentP.row = 10 currentP.col = 15 nextP.row = 10 nextP.col = 15
+entering findNextP method
+leaving findNextP method
+chainDir = 5
+lastQ = 2 currentP.row = 11 currentP.col = 14 nextP.row = 11 nextP.col = 14
+entering findNextP method
+leaving findNextP method
+chainDir = 4
+lastQ = 2 currentP.row = 11 currentP.col = 13 nextP.row = 11 nextP.col = 13
+entering findNextP method
+leaving findNextP method
+chainDir = 3
+lastQ = 0 currentP.row = 10 currentP.col = 12 nextP.row = 10 nextP.col = 12
+entering findNextP method
+leaving findNextP method
+chainDir = 2
+lastQ = 0 currentP.row = 9 currentP.col = 12 nextP.row = 9 nextP.col = 12
+entering findNextP method
+leaving findNextP method
+chainDir = 2
+lastQ = 0 currentP.row = 8 currentP.col = 12 nextP.row = 8 nextP.col = 12
+entering findNextP method
+leaving findNextP method
+chainDir = 2
+lastQ = 0 currentP.row = 7 currentP.col = 12 nextP.row = 7 nextP.col = 12
+entering findNextP method
+leaving findNextP method
+chainDir = 2
+lastQ = 0 currentP.row = 6 currentP.col = 12 nextP.row = 6 nextP.col = 12
+entering findNextP method
+leaving findNextP method
+chainDir = 2
+lastQ = 0 currentP.row = 5 currentP.col = 12 nextP.row = 5 nextP.col = 12
+entering findNextP method
+leaving findNextP method
+chainDir = 2
+lastQ = 0 currentP.row = 4 currentP.col = 12 nextP.row = 4 nextP.col = 12
+entering findNextP method
+leaving findNextP method
+chainDir = 3
+lastQ = 0 currentP.row = 3 currentP.col = 11 nextP.row = 3 nextP.col = 11
+entering findNextP method
+leaving findNextP method
+chainDir = 3
+lastQ = 0 currentP.row = 2 currentP.col = 10 nextP.row = 2 nextP.col = 10
+leaving getChainCode
+After getChainCode; ZFAry as below
+Entering constructBoundary
+lastQ = 2 currentP.row = 3 currentP.col = 9 nextP.row = 3 nextP.col = 9
+lastQ = 2 currentP.row = 4 currentP.col = 8 nextP.row = 4 nextP.col = 8
+lastQ = 4 currentP.row = 5 currentP.col = 8 nextP.row = 5 nextP.col = 8
+lastQ = 4 currentP.row = 6 currentP.col = 8 nextP.row = 6 nextP.col = 8
+lastQ = 4 currentP.row = 7 currentP.col = 8 nextP.row = 7 nextP.col = 8
+lastQ = 4 currentP.row = 8 currentP.col = 8 nextP.row = 8 nextP.col = 8
+lastQ = 4 currentP.row = 9 currentP.col = 8 nextP.row = 9 nextP.col = 8
+lastQ = 4 currentP.row = 10 currentP.col = 8 nextP.row = 10 nextP.col = 8
+lastQ = 4 currentP.row = 11 currentP.col = 8 nextP.row = 11 nextP.col = 8
+lastQ = 4 currentP.row = 12 currentP.col = 8 nextP.row = 12 nextP.col = 8
+lastQ = 4 currentP.row = 13 currentP.col = 8 nextP.row = 13 nextP.col = 8
+lastQ = 4 currentP.row = 14 currentP.col = 8 nextP.row = 14 nextP.col = 8
+lastQ = 4 currentP.row = 15 currentP.col = 8 nextP.row = 15 nextP.col = 8
+lastQ = 4 currentP.row = 16 currentP.col = 8 nextP.row = 16 nextP.col = 8
+lastQ = 4 currentP.row = 17 currentP.col = 8 nextP.row = 17 nextP.col = 8
+lastQ = 4 currentP.row = 18 currentP.col = 8 nextP.row = 18 nextP.col = 8
+lastQ = 4 currentP.row = 19 currentP.col = 9 nextP.row = 19 nextP.col = 9
+lastQ = 4 currentP.row = 20 currentP.col = 10 nextP.row = 20 nextP.col = 10
+lastQ = 6 currentP.row = 19 currentP.col = 11 nextP.row = 19 nextP.col = 11
+lastQ = 6 currentP.row = 18 currentP.col = 12 nextP.row = 18 nextP.col = 12
+lastQ = 0 currentP.row = 17 currentP.col = 12 nextP.row = 17 nextP.col = 12
+lastQ = 0 currentP.row = 16 currentP.col = 12 nextP.row = 16 nextP.col = 12
+lastQ = 0 currentP.row = 15 currentP.col = 12 nextP.row = 15 nextP.col = 12
+lastQ = 6 currentP.row = 14 currentP.col = 13 nextP.row = 14 nextP.col = 13
+lastQ = 6 currentP.row = 14 currentP.col = 14 nextP.row = 14 nextP.col = 14
+lastQ = 6 currentP.row = 14 currentP.col = 15 nextP.row = 14 nextP.col = 15
+lastQ = 6 currentP.row = 14 currentP.col = 16 nextP.row = 14 nextP.col = 16
+lastQ = 6 currentP.row = 14 currentP.col = 17 nextP.row = 14 nextP.col = 17
+lastQ = 4 currentP.row = 15 currentP.col = 18 nextP.row = 15 nextP.col = 18
+lastQ = 4 currentP.row = 16 currentP.col = 18 nextP.row = 16 nextP.col = 18
+lastQ = 4 currentP.row = 17 currentP.col = 18 nextP.row = 17 nextP.col = 18
+lastQ = 4 currentP.row = 18 currentP.col = 18 nextP.row = 18 nextP.col = 18
+lastQ = 4 currentP.row = 19 currentP.col = 18 nextP.row = 19 nextP.col = 18
+lastQ = 4 currentP.row = 20 currentP.col = 18 nextP.row = 20 nextP.col = 18
+lastQ = 6 currentP.row = 20 currentP.col = 19 nextP.row = 20 nextP.col = 19
+lastQ = 6 currentP.row = 20 currentP.col = 20 nextP.row = 20 nextP.col = 20
+lastQ = 0 currentP.row = 19 currentP.col = 20 nextP.row = 19 nextP.col = 20
+lastQ = 0 currentP.row = 18 currentP.col = 20 nextP.row = 18 nextP.col = 20
+lastQ = 0 currentP.row = 17 currentP.col = 20 nextP.row = 17 nextP.col = 20
+lastQ = 0 currentP.row = 16 currentP.col = 20 nextP.row = 16 nextP.col = 20
+lastQ = 0 currentP.row = 15 currentP.col = 20 nextP.row = 15 nextP.col = 20
+lastQ = 6 currentP.row = 14 currentP.col = 21 nextP.row = 14 nextP.col = 21
+lastQ = 6 currentP.row = 14 currentP.col = 22 nextP.row = 14 nextP.col = 22
+lastQ = 6 currentP.row = 14 currentP.col = 23 nextP.row = 14 nextP.col = 23
+lastQ = 6 currentP.row = 14 currentP.col = 24 nextP.row = 14 nextP.col = 24
+lastQ = 6 currentP.row = 14 currentP.col = 25 nextP.row = 14 nextP.col = 25
+lastQ = 6 currentP.row = 14 currentP.col = 26 nextP.row = 14 nextP.col = 26
+lastQ = 6 currentP.row = 14 currentP.col = 27 nextP.row = 14 nextP.col = 27
+lastQ = 6 currentP.row = 14 currentP.col = 28 nextP.row = 14 nextP.col = 28
+lastQ = 4 currentP.row = 15 currentP.col = 29 nextP.row = 15 nextP.col = 29
+lastQ = 4 currentP.row = 16 currentP.col = 29 nextP.row = 16 nextP.col = 29
+lastQ = 4 currentP.row = 17 currentP.col = 29 nextP.row = 17 nextP.col = 29
+lastQ = 4 currentP.row = 18 currentP.col = 29 nextP.row = 18 nextP.col = 29
+lastQ = 4 currentP.row = 19 currentP.col = 30 nextP.row = 19 nextP.col = 30
+lastQ = 4 currentP.row = 20 currentP.col = 31 nextP.row = 20 nextP.col = 31
+lastQ = 6 currentP.row = 19 currentP.col = 32 nextP.row = 19 nextP.col = 32
+lastQ = 6 currentP.row = 18 currentP.col = 33 nextP.row = 18 nextP.col = 33
+lastQ = 0 currentP.row = 17 currentP.col = 33 nextP.row = 17 nextP.col = 33
+lastQ = 0 currentP.row = 16 currentP.col = 33 nextP.row = 16 nextP.col = 33
+lastQ = 0 currentP.row = 15 currentP.col = 33 nextP.row = 15 nextP.col = 33
+lastQ = 0 currentP.row = 14 currentP.col = 33 nextP.row = 14 nextP.col = 33
+lastQ = 0 currentP.row = 13 currentP.col = 33 nextP.row = 13 nextP.col = 33
+lastQ = 6 currentP.row = 12 currentP.col = 34 nextP.row = 12 nextP.col = 34
+lastQ = 6 currentP.row = 12 currentP.col = 35 nextP.row = 12 nextP.col = 35
+lastQ = 6 currentP.row = 12 currentP.col = 36 nextP.row = 12 nextP.col = 36
+lastQ = 4 currentP.row = 13 currentP.col = 37 nextP.row = 13 nextP.col = 37
+lastQ = 4 currentP.row = 14 currentP.col = 37 nextP.row = 14 nextP.col = 37
+lastQ = 4 currentP.row = 15 currentP.col = 37 nextP.row = 15 nextP.col = 37
+lastQ = 4 currentP.row = 16 currentP.col = 37 nextP.row = 16 nextP.col = 37
+lastQ = 4 currentP.row = 17 currentP.col = 37 nextP.row = 17 nextP.col = 37
+lastQ = 0 currentP.row = 16 currentP.col = 37 nextP.row = 16 nextP.col = 37
+lastQ = 0 currentP.row = 15 currentP.col = 37 nextP.row = 15 nextP.col = 37
+lastQ = 0 currentP.row = 14 currentP.col = 37 nextP.row = 14 nextP.col = 37
+lastQ = 0 currentP.row = 13 currentP.col = 37 nextP.row = 13 nextP.col = 37
+lastQ = 0 currentP.row = 12 currentP.col = 37 nextP.row = 12 nextP.col = 37
+lastQ = 0 currentP.row = 11 currentP.col = 37 nextP.row = 11 nextP.col = 37
+lastQ = 0 currentP.row = 10 currentP.col = 37 nextP.row = 10 nextP.col = 37
+lastQ = 0 currentP.row = 9 currentP.col = 37 nextP.row = 9 nextP.col = 37
+lastQ = 0 currentP.row = 8 currentP.col = 37 nextP.row = 8 nextP.col = 37
+lastQ = 0 currentP.row = 7 currentP.col = 37 nextP.row = 7 nextP.col = 37
+lastQ = 0 currentP.row = 6 currentP.col = 37 nextP.row = 6 nextP.col = 37
+lastQ = 4 currentP.row = 7 currentP.col = 37 nextP.row = 7 nextP.col = 37
+lastQ = 4 currentP.row = 8 currentP.col = 37 nextP.row = 8 nextP.col = 37
+lastQ = 4 currentP.row = 9 currentP.col = 37 nextP.row = 9 nextP.col = 37
+lastQ = 4 currentP.row = 10 currentP.col = 37 nextP.row = 10 nextP.col = 37
+lastQ = 4 currentP.row = 11 currentP.col = 37 nextP.row = 11 nextP.col = 37
+lastQ = 2 currentP.row = 12 currentP.col = 36 nextP.row = 12 nextP.col = 36
+lastQ = 2 currentP.row = 12 currentP.col = 35 nextP.row = 12 nextP.col = 35
+lastQ = 2 currentP.row = 12 currentP.col = 34 nextP.row = 12 nextP.col = 34
+lastQ = 0 currentP.row = 11 currentP.col = 33 nextP.row = 11 nextP.col = 33
+lastQ = 0 currentP.row = 10 currentP.col = 33 nextP.row = 10 nextP.col = 33
+lastQ = 0 currentP.row = 9 currentP.col = 33 nextP.row = 9 nextP.col = 33
+lastQ = 0 currentP.row = 8 currentP.col = 33 nextP.row = 8 nextP.col = 33
+lastQ = 0 currentP.row = 7 currentP.col = 33 nextP.row = 7 nextP.col = 33
+lastQ = 0 currentP.row = 6 currentP.col = 33 nextP.row = 6 nextP.col = 33
+lastQ = 0 currentP.row = 5 currentP.col = 33 nextP.row = 5 nextP.col = 33
+lastQ = 0 currentP.row = 4 currentP.col = 33 nextP.row = 4 nextP.col = 33
+lastQ = 0 currentP.row = 3 currentP.col = 32 nextP.row = 3 nextP.col = 32
+lastQ = 0 currentP.row = 2 currentP.col = 31 nextP.row = 2 nextP.col = 31
+lastQ = 2 currentP.row = 3 currentP.col = 30 nextP.row = 3 nextP.col = 30
+lastQ = 2 currentP.row = 4 currentP.col = 29 nextP.row = 4 nextP.col = 29
+lastQ = 4 currentP.row = 5 currentP.col = 29 nextP.row = 5 nextP.col = 29
+lastQ = 4 currentP.row = 6 currentP.col = 29 nextP.row = 6 nextP.col = 29
+lastQ = 4 currentP.row = 7 currentP.col = 29 nextP.row = 7 nextP.col = 29
+lastQ = 4 currentP.row = 8 currentP.col = 29 nextP.row = 8 nextP.col = 29
+lastQ = 4 currentP.row = 9 currentP.col = 29 nextP.row = 9 nextP.col = 29
+lastQ = 4 currentP.row = 10 currentP.col = 29 nextP.row = 10 nextP.col = 29
+lastQ = 4 currentP.row = 11 currentP.col = 29 nextP.row = 11 nextP.col = 29
+lastQ = 2 currentP.row = 12 currentP.col = 28 nextP.row = 12 nextP.col = 28
+lastQ = 2 currentP.row = 12 currentP.col = 27 nextP.row = 12 nextP.col = 27
+lastQ = 0 currentP.row = 11 currentP.col = 26 nextP.row = 11 nextP.col = 26
+lastQ = 0 currentP.row = 10 currentP.col = 25 nextP.row = 10 nextP.col = 25
+lastQ = 0 currentP.row = 9 currentP.col = 25 nextP.row = 9 nextP.col = 25
+lastQ = 4 currentP.row = 10 currentP.col = 25 nextP.row = 10 nextP.col = 25
+lastQ = 2 currentP.row = 11 currentP.col = 24 nextP.row = 11 nextP.col = 24
+lastQ = 2 currentP.row = 12 currentP.col = 23 nextP.row = 12 nextP.col = 23
+lastQ = 2 currentP.row = 12 currentP.col = 22 nextP.row = 12 nextP.col = 22
+lastQ = 0 currentP.row = 11 currentP.col = 21 nextP.row = 11 nextP.col = 21
+lastQ = 0 currentP.row = 10 currentP.col = 20 nextP.row = 10 nextP.col = 20
+lastQ = 0 currentP.row = 9 currentP.col = 20 nextP.row = 9 nextP.col = 20
+lastQ = 0 currentP.row = 8 currentP.col = 20 nextP.row = 8 nextP.col = 20
+lastQ = 0 currentP.row = 7 currentP.col = 20 nextP.row = 7 nextP.col = 20
+lastQ = 0 currentP.row = 6 currentP.col = 20 nextP.row = 6 nextP.col = 20
+lastQ = 0 currentP.row = 5 currentP.col = 20 nextP.row = 5 nextP.col = 20
+lastQ = 0 currentP.row = 4 currentP.col = 20 nextP.row = 4 nextP.col = 20
+lastQ = 0 currentP.row = 3 currentP.col = 20 nextP.row = 3 nextP.col = 20
+lastQ = 0 currentP.row = 2 currentP.col = 20 nextP.row = 2 nextP.col = 20
+lastQ = 2 currentP.row = 2 currentP.col = 19 nextP.row = 2 nextP.col = 19
+lastQ = 2 currentP.row = 2 currentP.col = 18 nextP.row = 2 nextP.col = 18
+lastQ = 4 currentP.row = 3 currentP.col = 18 nextP.row = 3 nextP.col = 18
+lastQ = 4 currentP.row = 4 currentP.col = 18 nextP.row = 4 nextP.col = 18
+lastQ = 4 currentP.row = 5 currentP.col = 18 nextP.row = 5 nextP.col = 18
+lastQ = 4 currentP.row = 6 currentP.col = 18 nextP.row = 6 nextP.col = 18
+lastQ = 4 currentP.row = 7 currentP.col = 18 nextP.row = 7 nextP.col = 18
+lastQ = 4 currentP.row = 8 currentP.col = 18 nextP.row = 8 nextP.col = 18
+lastQ = 4 currentP.row = 9 currentP.col = 18 nextP.row = 9 nextP.col = 18
+lastQ = 4 currentP.row = 10 currentP.col = 18 nextP.row = 10 nextP.col = 18
+lastQ = 2 currentP.row = 11 currentP.col = 17 nextP.row = 11 nextP.col = 17
+lastQ = 2 currentP.row = 11 currentP.col = 16 nextP.row = 11 nextP.col = 16
+lastQ = 0 currentP.row = 10 currentP.col = 15 nextP.row = 10 nextP.col = 15
+lastQ = 0 currentP.row = 9 currentP.col = 15 nextP.row = 9 nextP.col = 15
+lastQ = 0 currentP.row = 8 currentP.col = 15 nextP.row = 8 nextP.col = 15
+lastQ = 4 currentP.row = 9 currentP.col = 15 nextP.row = 9 nextP.col = 15
+lastQ = 4 currentP.row = 10 currentP.col = 15 nextP.row = 10 nextP.col = 15
+lastQ = 2 currentP.row = 11 currentP.col = 14 nextP.row = 11 nextP.col = 14
+lastQ = 2 currentP.row = 11 currentP.col = 13 nextP.row = 11 nextP.col = 13
+lastQ = 0 currentP.row = 10 currentP.col = 12 nextP.row = 10 nextP.col = 12
+lastQ = 0 currentP.row = 9 currentP.col = 12 nextP.row = 9 nextP.col = 12
+lastQ = 0 currentP.row = 8 currentP.col = 12 nextP.row = 8 nextP.col = 12
+lastQ = 0 currentP.row = 7 currentP.col = 12 nextP.row = 7 nextP.col = 12
+lastQ = 0 currentP.row = 6 currentP.col = 12 nextP.row = 6 nextP.col = 12
+lastQ = 0 currentP.row = 5 currentP.col = 12 nextP.row = 5 nextP.col = 12
+lastQ = 0 currentP.row = 4 currentP.col = 12 nextP.row = 4 nextP.col = 12
+lastQ = 0 currentP.row = 3 currentP.col = 11 nextP.row = 3 nextP.col = 11
+lastQ = 0 currentP.row = 2 currentP.col = 10 nextP.row = 2 nextP.col = 10
+Leaving constructBoundary
